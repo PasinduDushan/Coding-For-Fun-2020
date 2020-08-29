@@ -15,6 +15,10 @@ div{
   background-color: gainsboro;
 }  
 
+.information{
+  font size=10;
+}
+
 .register{
   height: 100px;
   background-color: blue;
