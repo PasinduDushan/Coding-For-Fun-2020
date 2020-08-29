@@ -7,7 +7,7 @@ div{
 
 .theme{
   background-color: ghostWhite;
-  height: 1000px;
+  height: 100px;
 }
 
 .options{
@@ -16,7 +16,7 @@ div{
 }  
 
 .register{
-  height: 1000px;
+  height: 100px;
   background-color: blue;
 }
 
