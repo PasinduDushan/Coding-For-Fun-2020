@@ -11,12 +11,12 @@ div{
 }
 
 .options{
-  height: 100px;
+  height: 120px;
   background-color: gainsboro;
 }
 
 .information{
-  height: 100px;
+  height: 140px;
   background-color: lightGreen;
 }
 
