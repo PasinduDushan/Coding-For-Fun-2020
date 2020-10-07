@@ -10,15 +10,6 @@ div{
   height: 1300px;
 }
 
-button{
-  border: none;
-  border-radius: 5px;
-  font-size: 17px;
-  height: 40px;
-  widtht: 70px;
-  margin: 20px 15px 15px 0;
-}
-
 .options{
   height: 100px;
   background-color: gainsboro;
