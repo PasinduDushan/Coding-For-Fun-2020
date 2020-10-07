@@ -1,25 +1,25 @@
 function selectMode(mode){
 
 var color = "ghostWhite";
-var image = "111605382-settings-icon-vector-isolated-on-white-background-settings-transparent-sign.jpg";
+var image = "logo.png";
 var label = "Coding For Fun 2020";
 
 if(mode === "dark"){
 
 color = "darkSlateBlue";
-image = "111605382-settings-icon-vector-isolated-on-white-background-settings-transparent-sign.jpg";
+image = "logo.png";
 label = "Coding For Fun 2020";
 
 }else if (mode === "light") {
 
 color = "ghostWhite";
-image = "111605382-settings-icon-vector-isolated-on-white-background-settings-transparent-sign.jpg";
+image = "logo.png";
 label = "Coding For Fun 2020";
 
 }else{
 
 color = "dimGray";
-image = "111605382-settings-icon-vector-isolated-on-white-background-settings-transparent-sign.jpg";
+image = "logo.png";
 label = "Coding For Fun 2020";
 
 }
